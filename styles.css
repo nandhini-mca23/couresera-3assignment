@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: rgb(254, 133, 212);
+color: #61122F;
+}
+body{
+	background-color: pink;
+	color:black;
+}
+.glyphicon{
+	font-size: 40px;
+	color:#f3025a; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: white;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #f53f82;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+
+#beef{
+	background-color: aliceblue;
+	padding: 1px;
+}
